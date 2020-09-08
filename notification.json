@@ -10,7 +10,7 @@
   {
     "time": 1599532800000,
 	"key": "china_version_0",
-	"zh_cn": {
+	"zh-cn": {
 	  "title": "BanG Player已开设中国站点",
 	  "content": "由于Cloudflare加速服务器的问题，某些中国用户不能正常访问BanG Player。基于此开设中国站点。\r\n\r\n您可以访问[cn.bangplayer.live](https://cn.bangplayer.live)重定向到中国站点；或是直接访问[bangplayer.reikohaku.fun](https://bangplayer.reikohaku.fun)。\r\n\r\n如有疑问，请参阅wiki内容。"
 	}
