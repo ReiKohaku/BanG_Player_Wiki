@@ -1,19 +1,51 @@
 [
   {
-    "time": 1597842000000,
-    "key": "welcome_0",
+    "time": 1602342240000,
+    "key": "welcome_1",
+	"en-us": {
+	  "title": "Welcome to BanG Player!",
+	  "content": "Welcome to BanG Player!\r\nI need your help to improve the translations and BanG Player Wiki.\r\nPlease go to [Github](https://github.com) to improve [translations](https://github.com/ReiKohaku/BanG-Player-v2) and [Wiki](https://github.com/ReiKohaku/BanG_Player_Wiki)"
+	},
     "zh-cn": {
       "title": "欢迎使用BanG Player！",
       "content": "欢迎您使用BanG Player！\n\r感谢各位愿意等待这么久，等待一个脱胎换骨般的BanG Player v2。我希望能带给大家更贴近原生App的体验，也希望您能给我提出意见，指出不足。\n\r您可以在Wiki中学习BanG Player的相关知识，也欢迎各位帮我补充。"
     }
   },
-  {
+    {
+    "time": 1602342240000,
+    "key": "app_v2.0.2_0",
+	"en-us": {
+      "title": "App download",
+      "content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.2\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
+    },
+    "zh-cn": {
+      "title": "App版下载链接",
+      "content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n最新版：v2.0.2\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
+    }
+  },
+    {
     "time": 1599532800000,
 	"key": "china_version_0",
 	"zh-cn": {
 	  "title": "BanG Player已开设中国站点",
 	  "content": "由于Cloudflare加速服务器的问题，某些中国用户不能正常访问BanG Player。基于此开设中国站点。\r\n\r\n您可以访问[cn.bangplayer.live](https://cn.bangplayer.live)重定向到中国站点；或是直接访问[bangplayer.reikohaku.fun](https://bangplayer.reikohaku.fun)。\r\n\r\n如有疑问，请参阅wiki内容。"
 	}
+  },
+  {
+    "time": 1602342240000,
+    "key": "notice_0",
+    "zh-cn": {
+      "title": "关于近期开发进度和暂停开发的一些说明",
+      "content": "首先，还是感谢各位使用BanG Player。\r\nBanG Player诞生之初就是想要解决BanGround Player（它真的和BanGround没有一点关系！）不能/未能解决的一些问题，例如不支持变速谱面（这个是由于早期的bangbangboom格式不支持），更换自定义背景（说真的，它太占空间了），以及最让人恼火的，加载卡顿问题。\r\n我解决了吗？\r\n变速谱面的问题确实解决了，因为新版的bangbangboom支持了，但bug也随之升级。我个人又只是个拿来库使用的人，只能和bangbangboom开发者反馈，能否修复全看bangbangboom开发者。\r\n自定义背景什么的，确实可以用，但是我没考虑的事情太多，这导致很长一段时间内，编辑选项都是一件很痛苦的事。\r\n加载卡顿是网络问题，我自己搭过四个反代站，但没有一个访问快的，甚至BanG Player v2让国内用户访问更慢了（因为服务器在法国）。\r\n这些让我有种挫败的感觉。\r\n加载卡顿我尚且可以找个好心人给个高速反代站（虽然直到最近我才找到了这样的大佬），但bangbangboom自身的问题，我自己是无力解决的——至少在我能力达到能看懂这份代码之前，不行。\r\n以及WebGL这个极其低效的绘制，让很多人根本就用不上BanG Player。\r\n我有时在想我为什么写这个应用，写出来干什么，自己往里面贴钱（买反代服务器），占用学习时间（甚至一度让我差点没完成专业课的项目），写出来就是一堆废品，代码美观度没有，耦合度高得吓人，逻辑混乱，界面排布成谜，整个项目就是一份shit code。\r\n现在的替代品也有了——Sonolus是一个很好的模拟器，也很开放，谁都可以写游戏，性能还高。我看着Sonolus国内群有了两千多人，逐渐觉得写BanG Player真的没什么意义。\r\n所以我停更了一个月。\r\n虽然我现在也想明白了，写这个项目纯粹就是因为想写才去写，但我也已经没有持续更新下去的动力了……\r\n很遗憾，BanG Player v2诞生几个月后，就要宣布暂停更新了。我说是暂停，是因为可能我还会回来修复一些问题，同时也保留一线生机——万一以后有了更好的Web模拟器，我会回来带来最新的模拟器。\r\n但现在，就让它先停下吧。\r\n在更新完现有的几个功能以后，我将不会再更新它——除非出现了什么严重的bug。\r\n感谢你们一路陪伴的这几个月。\r\n（顺便，BanGround也在加急开发了，这可能也是我不再继续写BanG Player的原因了，有好的谁还用过时的呢……）"
+    }
+  },
+  {
+    "time": 1602342240000,
+    "key": "bug_v2.0.2_0",
+    "zh-cn": {
+      "title": "v2.0.2已知问题及下版本更新计划公示",
+      "content": "## 已知问题\r\n* 在某些情况下会出现combo数无法累加及滑条表现异常的问题。（造成这个问题的是bangbangboom-game新版本中新增的错误）\r\n* 某些情况下应用会在加载界面卡死。\r\n\r\n## 更新计划\r\n* 新增2条国内高速线路。\r\n* 根据访问地区智能选择信息获取线路。\r\n* 修正日期格式为对应语言正确格式。\r\n* 增加游玩统计功能，并提供谱面热度排行榜。"
+    }
   },
   {
     "time": 1599532800000,
