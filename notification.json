@@ -11,15 +11,15 @@
 		}
 	},
 	{
-		"time": 1603010400000,
-		"key": "app_v2.0.4_0",
+		"time": 1603621800000,
+		"key": "app_v2.0.4-R1_0",
 		"en-us": {
 			"title": "App download",
-			"content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.4\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
+			"content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.4-R1\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
 		},
 		"zh-cn": {
 			"title": "App版下载链接",
-			"content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.4\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
+			"content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.4-R1\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
 		}
 	},
 	{
@@ -30,8 +30,20 @@
 			"content": "由于Cloudflare加速服务器的问题，某些中国用户不能正常访问BanG Player。基于此开设中国站点。\r\n\r\n您可以访问[cn.bangplayer.live](https://cn.bangplayer.live)重定向到中国站点；或是直接访问[bangplayer.reikohaku.fun](https://bangplayer.reikohaku.fun)。\r\n\r\n如有疑问，请参阅wiki内容。"
 		}
 	},
+ 	{
+		"time": 1603621800000,
+		"key": "update_v2.0.4-R1_0",
+		"en-us": {
+			"title": "[Change Log]v2.0.4-R1",
+			"content": "* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name.\r\n\r\nIf you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it."
+		},
+		"zh-cn": {
+			"title": "[更新日志]v2.0.4-R1更新日志",
+			"content": "* 修复了由于代码编写错误导致的SIF歌曲信息无法加载的问题。\r\n* 修改了线路名称。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
+		}
+	},
 	{
-		"time": 1603010400000,
+		"time": 1603614600000,
 		"key": "issue_20201025_0",
 		"en-us": {
 			"title": "App download",
