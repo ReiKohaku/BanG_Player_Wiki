@@ -1,90 +1,101 @@
-[
-  {
-    "time": 1602342240000,
-    "key": "welcome_1",
-	"en-us": {
-	  "title": "Welcome to BanG Player!",
-	  "content": "Welcome to BanG Player!\r\nI need your help to improve the translations and BanG Player Wiki.\r\nPlease go to [Github](https://github.com) to improve [translations](https://github.com/ReiKohaku/BanG-Player-v2) and [Wiki](https://github.com/ReiKohaku/BanG_Player_Wiki)"
+[{
+		"time": 1602342240000,
+		"key": "welcome_1",
+		"en-us": {
+			"title": "Welcome to BanG Player!",
+			"content": "Welcome to BanG Player!\r\nI need your help to improve the translations and BanG Player Wiki.\r\nPlease go to [Github](https://github.com) to improve [translations](https://github.com/ReiKohaku/BanG-Player-v2) and [Wiki](https://github.com/ReiKohaku/BanG_Player_Wiki)"
+		},
+		"zh-cn": {
+			"title": "欢迎使用BanG Player！",
+			"content": "欢迎您使用BanG Player！\n\r感谢各位愿意等待这么久，等待一个脱胎换骨般的BanG Player v2。我希望能带给大家更贴近原生App的体验，也希望您能给我提出意见，指出不足。\n\r您可以在Wiki中学习BanG Player的相关知识，也欢迎各位帮我补充。"
+		}
 	},
-    "zh-cn": {
-      "title": "欢迎使用BanG Player！",
-      "content": "欢迎您使用BanG Player！\n\r感谢各位愿意等待这么久，等待一个脱胎换骨般的BanG Player v2。我希望能带给大家更贴近原生App的体验，也希望您能给我提出意见，指出不足。\n\r您可以在Wiki中学习BanG Player的相关知识，也欢迎各位帮我补充。"
-    }
-  },
-    {
-    "time": 1603010400000,
-    "key": "app_v2.0.4_0",
-	"en-us": {
-      "title": "App download",
-      "content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.4\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
-    },
-    "zh-cn": {
-      "title": "App版下载链接",
-      "content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.4\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
-    }
-  },
-    {
-    "time": 1599532800000,
-	"key": "china_version_0",
-	"zh-cn": {
-	  "title": "BanG Player已开设中国站点",
-	  "content": "由于Cloudflare加速服务器的问题，某些中国用户不能正常访问BanG Player。基于此开设中国站点。\r\n\r\n您可以访问[cn.bangplayer.live](https://cn.bangplayer.live)重定向到中国站点；或是直接访问[bangplayer.reikohaku.fun](https://bangplayer.reikohaku.fun)。\r\n\r\n如有疑问，请参阅wiki内容。"
+	{
+		"time": 1603010400000,
+		"key": "app_v2.0.4_0",
+		"en-us": {
+			"title": "App download",
+			"content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.4\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
+		},
+		"zh-cn": {
+			"title": "App版下载链接",
+			"content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.4\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
+		}
+	},
+	{
+		"time": 1599532800000,
+		"key": "china_version_0",
+		"zh-cn": {
+			"title": "BanG Player已开设中国站点",
+			"content": "由于Cloudflare加速服务器的问题，某些中国用户不能正常访问BanG Player。基于此开设中国站点。\r\n\r\n您可以访问[cn.bangplayer.live](https://cn.bangplayer.live)重定向到中国站点；或是直接访问[bangplayer.reikohaku.fun](https://bangplayer.reikohaku.fun)。\r\n\r\n如有疑问，请参阅wiki内容。"
+		}
+	},
+	{
+		"time": 1603010400000,
+		"key": "issue_20201025_0",
+		"en-us": {
+			"title": "App download",
+			"content": "In order to provide better access services, I previously performed a server migration, but due to operational errors, the new server could not be accessed via https for several days, resulting in inaccessibility issues in the notification and Wiki systems. \r\nThe problem has now been fixed and a higher speed line has been replaced. \r\nI hope you can continue to use and support BanG Player v2."
+		},
+		"zh-cn": {
+			"title": "About the network error problem some time ago",
+			"content": "为了提供更好的访问服务，我先前进行了一次服务器的迁移，但其中由于操作失误，几天以来都无法通过https方式访问到新的服务器，导致通知和Wiki系统出现了无法访问的问题。\r\n现在问题已经修复，并且换上了更高速的线路。\r\n希望您能继续使用并支持BanG Player v2。"
+		}
+	},
+	{
+		"time": 1603010400000,
+		"key": "update_v2.0.4_0",
+		"zh-cn": {
+			"title": "[更新日志]v2.0.4更新日志",
+			"content": "* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
+		}
+	},
+	{
+		"time": 1602422400000,
+		"key": "update_v2.0.3_0",
+		"zh-cn": {
+			"title": "[更新日志]v2.0.3更新日志",
+			"content": "* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
+		}
+	},
+	{
+		"time": 1602342240000,
+		"key": "notice_0",
+		"zh-cn": {
+			"title": "关于近期开发进度和暂停开发的一些说明",
+			"content": "首先，还是感谢各位使用BanG Player。\r\n\r\nBanG Player诞生之初就是想要解决BanGround Player（它真的和BanGround没有一点关系！）不能/未能解决的一些问题，例如不支持变速谱面（这个是由于早期的bangbangboom格式不支持），更换自定义背景（说真的，它太占空间了），以及最让人恼火的，加载卡顿问题。\r\n\r\n我解决了吗？\r\n\r\n变速谱面的问题确实解决了，因为新版的bangbangboom支持了，但bug也随之升级。我个人又只是个拿来库使用的人，只能和bangbangboom开发者反馈，能否修复全看bangbangboom开发者。\r\n自定义背景什么的，确实可以用，但是我没考虑的事情太多，这导致很长一段时间内，编辑选项都是一件很痛苦的事。\r\n\r\n加载卡顿是网络问题，我自己搭过四个反代站，但没有一个访问快的，甚至BanG Player v2让国内用户访问更慢了（因为服务器在法国）。\r\n\r\n这些让我有种挫败的感觉。\r\n\r\n加载卡顿我尚且可以找个好心人给个高速反代站（虽然直到最近我才找到了这样的大佬），但bangbangboom自身的问题，我自己是无力解决的——至少在我能力达到能看懂这份代码之前，不行。\r\n\r\n以及WebGL这个极其低效的绘制，让很多人根本就用不上BanG Player。\r\n\r\n我有时在想我为什么写这个应用，写出来干什么，自己往里面贴钱（买反代服务器），占用学习时间（甚至一度让我差点没完成专业课的项目），写出来就是一堆废品，代码美观度没有，耦合度高得吓人，逻辑混乱，界面排布成谜，整个项目就是一份shit code。\r\n\r\n现在的替代品也有了——Sonolus是一个很好的模拟器，也很开放，谁都可以写游戏，性能还高。我看着Sonolus国内群有了两千多人，逐渐觉得写BanG Player真的没什么意义。\r\n\r\n所以我停更了一个月。\r\n\r\n虽然我现在也想明白了，写这个项目纯粹就是因为想写才去写，但我也已经没有持续更新下去的动力了……\r\n\r\n很遗憾，BanG Player v2诞生几个月后，就要宣布暂停更新了。我说是暂停，是因为可能我还会回来修复一些问题，同时也保留一线生机——万一以后有了更好的Web模拟器，我会回来带来最新的模拟器。\r\n\r\n但现在，就让它先停下吧。\r\n\r\n在更新完现有的几个功能以后，我将不会再更新它——除非出现了什么严重的bug。\r\n\r\n感谢你们一路陪伴的这几个月。\r\n\r\n（顺便，BanGround也在加急开发了，这可能也是我不再继续写BanG Player的原因了，有好的谁还用过时的呢……）"
+		}
+	},
+	{
+		"time": 1602342240000,
+		"key": "bug_v2.0.2_0",
+		"zh-cn": {
+			"title": "v2.0.2已知问题及下版本更新计划公示",
+			"content": "## 已知问题\r\n* 在某些情况下会出现combo数无法累加及滑条表现异常的问题。（造成这个问题的是bangbangboom-game新版本中新增的错误）\r\n* 某些情况下应用会在加载界面卡死。\r\n\r\n## 更新计划\r\n* 新增2条国内高速线路。\r\n* 根据访问地区智能选择信息获取线路。\r\n* 修正日期格式为对应语言正确格式。\r\n* 增加游玩统计功能，并提供谱面热度排行榜。"
+		}
+	},
+	{
+		"time": 1599532800000,
+		"key": "update_v2.0.2_0",
+		"zh-cn": {
+			"title": "[更新日志]v2.0.2更新日志",
+			"content": "* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
+		}
+	},
+	{
+		"time": 1598716800000,
+		"key": "bug_v2.0.1_0",
+		"zh-cn": {
+			"title": "v2.0.1已知问题及下版本更新计划公示",
+			"content": "## 已知问题\r\n* 在某些情况下会出现combo数无法累加及滑条表现异常的问题。\r\n* 通知标记为已读后，下次打开应用仍显示未被标记。\r\n* 某些情况下下方总是弹出升级完毕弹框。\r\n\r\n## 更新计划\r\n* 增加游玩统计功能，并提供谱面热度排行榜\r\n* 在演出准备界面和游戏内界面增加当前已启用mod的显示。\r\n* 允许自定义喜欢的谱面的音乐作为标题音乐。"
+		}
+	},
+	{
+		"time": 1598631360000,
+		"key": "update_v2.0.1_0",
+		"zh-cn": {
+			"title": "[更新日志]v2.0.1更新日志",
+			"content": "* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。\r\n\r\n您无需手动操作，应用会自动开始升级。您只需使用一段时间后，手动刷新页面，观察到主页右上角的版本号变化，即代表更新完成。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
+		}
 	}
-  },
-  {
-    "time": 1603010400000,
-    "key": "update_v2.0.4_0",
-    "zh-cn": {
-      "title": "[更新日志]v2.0.4更新日志",
-      "content": "* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
-    }
-  },
-  {
-    "time": 1602422400000,
-    "key": "update_v2.0.3_0",
-    "zh-cn": {
-      "title": "[更新日志]v2.0.3更新日志",
-      "content": "* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
-    }
-  },
-  {
-    "time": 1602342240000,
-    "key": "notice_0",
-    "zh-cn": {
-      "title": "关于近期开发进度和暂停开发的一些说明",
-      "content": "首先，还是感谢各位使用BanG Player。\r\n\r\nBanG Player诞生之初就是想要解决BanGround Player（它真的和BanGround没有一点关系！）不能/未能解决的一些问题，例如不支持变速谱面（这个是由于早期的bangbangboom格式不支持），更换自定义背景（说真的，它太占空间了），以及最让人恼火的，加载卡顿问题。\r\n\r\n我解决了吗？\r\n\r\n变速谱面的问题确实解决了，因为新版的bangbangboom支持了，但bug也随之升级。我个人又只是个拿来库使用的人，只能和bangbangboom开发者反馈，能否修复全看bangbangboom开发者。\r\n自定义背景什么的，确实可以用，但是我没考虑的事情太多，这导致很长一段时间内，编辑选项都是一件很痛苦的事。\r\n\r\n加载卡顿是网络问题，我自己搭过四个反代站，但没有一个访问快的，甚至BanG Player v2让国内用户访问更慢了（因为服务器在法国）。\r\n\r\n这些让我有种挫败的感觉。\r\n\r\n加载卡顿我尚且可以找个好心人给个高速反代站（虽然直到最近我才找到了这样的大佬），但bangbangboom自身的问题，我自己是无力解决的——至少在我能力达到能看懂这份代码之前，不行。\r\n\r\n以及WebGL这个极其低效的绘制，让很多人根本就用不上BanG Player。\r\n\r\n我有时在想我为什么写这个应用，写出来干什么，自己往里面贴钱（买反代服务器），占用学习时间（甚至一度让我差点没完成专业课的项目），写出来就是一堆废品，代码美观度没有，耦合度高得吓人，逻辑混乱，界面排布成谜，整个项目就是一份shit code。\r\n\r\n现在的替代品也有了——Sonolus是一个很好的模拟器，也很开放，谁都可以写游戏，性能还高。我看着Sonolus国内群有了两千多人，逐渐觉得写BanG Player真的没什么意义。\r\n\r\n所以我停更了一个月。\r\n\r\n虽然我现在也想明白了，写这个项目纯粹就是因为想写才去写，但我也已经没有持续更新下去的动力了……\r\n\r\n很遗憾，BanG Player v2诞生几个月后，就要宣布暂停更新了。我说是暂停，是因为可能我还会回来修复一些问题，同时也保留一线生机——万一以后有了更好的Web模拟器，我会回来带来最新的模拟器。\r\n\r\n但现在，就让它先停下吧。\r\n\r\n在更新完现有的几个功能以后，我将不会再更新它——除非出现了什么严重的bug。\r\n\r\n感谢你们一路陪伴的这几个月。\r\n\r\n（顺便，BanGround也在加急开发了，这可能也是我不再继续写BanG Player的原因了，有好的谁还用过时的呢……）"
-    }
-  },
-  {
-    "time": 1602342240000,
-    "key": "bug_v2.0.2_0",
-    "zh-cn": {
-      "title": "v2.0.2已知问题及下版本更新计划公示",
-      "content": "## 已知问题\r\n* 在某些情况下会出现combo数无法累加及滑条表现异常的问题。（造成这个问题的是bangbangboom-game新版本中新增的错误）\r\n* 某些情况下应用会在加载界面卡死。\r\n\r\n## 更新计划\r\n* 新增2条国内高速线路。\r\n* 根据访问地区智能选择信息获取线路。\r\n* 修正日期格式为对应语言正确格式。\r\n* 增加游玩统计功能，并提供谱面热度排行榜。"
-    }
-  },
-  {
-    "time": 1599532800000,
-    "key": "update_v2.0.2_0",
-    "zh-cn": {
-      "title": "[更新日志]v2.0.2更新日志",
-      "content": "* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
-    }
-  },
-  {
-    "time": 1598716800000,
-    "key": "bug_v2.0.1_0",
-    "zh-cn": {
-      "title": "v2.0.1已知问题及下版本更新计划公示",
-      "content": "## 已知问题\r\n* 在某些情况下会出现combo数无法累加及滑条表现异常的问题。\r\n* 通知标记为已读后，下次打开应用仍显示未被标记。\r\n* 某些情况下下方总是弹出升级完毕弹框。\r\n\r\n## 更新计划\r\n* 增加游玩统计功能，并提供谱面热度排行榜\r\n* 在演出准备界面和游戏内界面增加当前已启用mod的显示。\r\n* 允许自定义喜欢的谱面的音乐作为标题音乐。"
-    }
-  },
-  {
-    "time": 1598631360000,
-    "key": "update_v2.0.1_0",
-    "zh-cn": {
-      "title": "[更新日志]v2.0.1更新日志",
-      "content": "* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。\r\n\r\n您无需手动操作，应用会自动开始升级。您只需使用一段时间后，手动刷新页面，观察到主页右上角的版本号变化，即代表更新完成。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
-    }
-  }
 ]
