@@ -11,15 +11,15 @@
 		}
 	},
 	{
-		"time": 1603621800000,
-		"key": "app_v2.0.4-R1_0",
+		"time": 1603718400000,
+		"key": "app_v2.0.5",
 		"en-us": {
 			"title": "App download",
-			"content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.4-R1\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
+			"content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.51\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
 		},
 		"zh-cn": {
 			"title": "App版下载链接",
-			"content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.4-R1\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
+			"content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.5\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
 		}
 	},
 	{
@@ -30,16 +30,16 @@
 			"content": "由于Cloudflare加速服务器的问题，某些中国用户不能正常访问BanG Player。基于此开设中国站点。\r\n\r\n您可以访问[cn.bangplayer.live](https://cn.bangplayer.live)重定向到中国站点；或是直接访问[bangplayer.reikohaku.fun](https://bangplayer.reikohaku.fun)。\r\n\r\n如有疑问，请参阅wiki内容。"
 		}
 	},
- 	{
-		"time": 1603621800000,
-		"key": "update_v2.0.4-R1_0",
+	{
+	    "time": 1603718400000,
+		"key": "changeLog_v2.0.5_0",
 		"en-us": {
-			"title": "[Change Log]v2.0.4-R1",
-			"content": "* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name.\r\n\r\nIf you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it."
+		    "title": "Change Log of BanG Player v2(Latest: v2.0.5)",
+			"content": "If you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it.\r\n\r\n## v2.0.5\r\n* Update the index page and primary color.\r\n* Something will happen on November 1st...\r\n## v2.0.4-R1\r\n* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name."
 		},
 		"zh-cn": {
-			"title": "[更新日志]v2.0.4-R1更新日志",
-			"content": "* 修复了由于代码编写错误导致的SIF歌曲信息无法加载的问题。\r\n* 修改了线路名称。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
+		    "title": "BanG Player v2更新日志（最新：v2.0.5）",
+			"content": "如果您使用的是PWA应用（通过浏览器访问），则您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。\r\n\r\n## v2.0.5\r\n* 修改了主页的风格以及主要颜色。\r\n* 11月1日似乎会发生一些奇怪的事情……\r\n## v2.0.4-R1\r\n* 修复了由于代码编写错误导致的SIF歌曲信息无法加载的问题。\r\n* 修改了线路名称。\r\n## v2.0.4\r\n* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n## v2.0.3\r\n* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n## v2.0.2\r\n* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n## v2.0.1\r\n* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。"
 		}
 	},
 	{
@@ -52,22 +52,6 @@
 		"zh-cn": {
 			"title": "About the network error problem some time ago",
 			"content": "为了提供更好的访问服务，我先前进行了一次服务器的迁移，但其中由于操作失误，几天以来都无法通过https方式访问到新的服务器，导致通知和Wiki系统出现了无法访问的问题。\r\n现在问题已经修复，并且换上了更高速的线路。\r\n希望您能继续使用并支持BanG Player v2。"
-		}
-	},
-	{
-		"time": 1603010400000,
-		"key": "update_v2.0.4_0",
-		"zh-cn": {
-			"title": "[更新日志]v2.0.4更新日志",
-			"content": "* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
-		}
-	},
-	{
-		"time": 1602422400000,
-		"key": "update_v2.0.3_0",
-		"zh-cn": {
-			"title": "[更新日志]v2.0.3更新日志",
-			"content": "* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
 		}
 	},
 	{
@@ -87,27 +71,11 @@
 		}
 	},
 	{
-		"time": 1599532800000,
-		"key": "update_v2.0.2_0",
-		"zh-cn": {
-			"title": "[更新日志]v2.0.2更新日志",
-			"content": "* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n\r\n您无需手动操作，应用会自动开始升级。下方弹出提示时刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
-		}
-	},
-	{
 		"time": 1598716800000,
 		"key": "bug_v2.0.1_0",
 		"zh-cn": {
 			"title": "v2.0.1已知问题及下版本更新计划公示",
 			"content": "## 已知问题\r\n* 在某些情况下会出现combo数无法累加及滑条表现异常的问题。\r\n* 通知标记为已读后，下次打开应用仍显示未被标记。\r\n* 某些情况下下方总是弹出升级完毕弹框。\r\n\r\n## 更新计划\r\n* 增加游玩统计功能，并提供谱面热度排行榜\r\n* 在演出准备界面和游戏内界面增加当前已启用mod的显示。\r\n* 允许自定义喜欢的谱面的音乐作为标题音乐。"
-		}
-	},
-	{
-		"time": 1598631360000,
-		"key": "update_v2.0.1_0",
-		"zh-cn": {
-			"title": "[更新日志]v2.0.1更新日志",
-			"content": "* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。\r\n\r\n您无需手动操作，应用会自动开始升级。您只需使用一段时间后，手动刷新页面，观察到主页右上角的版本号变化，即代表更新完成。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。"
 		}
 	}
 ]
