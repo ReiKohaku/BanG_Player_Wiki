@@ -31,26 +31,26 @@
 		}
 	},
 	{
-	    "time": 1603718400000,
-		"key": "changeLog_v2.0.5_0",
+	    "time": 1603798200000,
+		"key": "changeLog_v2.0.5-R1_0",
 		"en-us": {
-		    "title": "Change Log of BanG Player v2(Latest: v2.0.5)",
-			"content": "If you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it.\r\n\r\n## v2.0.5\r\n* Update the index page and primary color.\r\n* Something will happen on November 1st...\r\n## v2.0.4-R1\r\n* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name."
+		    "title": "Change Log of BanG Player v2(Latest: v2.0.5-R1)",
+			"content": "If you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it.\r\n\r\n## v2.0.5-R1\r\n* Fix an issue that iOS devices cannot load chart music.\r\n## v2.0.5\r\n* Update the index page and primary color.\r\n* Something will happen on November 1st...\r\n## v2.0.4-R1\r\n* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name."
 		},
 		"zh-cn": {
-		    "title": "BanG Player v2更新日志（最新：v2.0.5）",
-			"content": "如果您使用的是PWA应用（通过浏览器访问），则您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。\r\n\r\n## v2.0.5\r\n* 修改了主页的风格以及主要颜色。\r\n* 11月1日似乎会发生一些奇怪的事情……\r\n## v2.0.4-R1\r\n* 修复了由于代码编写错误导致的SIF歌曲信息无法加载的问题。\r\n* 修改了线路名称。\r\n## v2.0.4\r\n* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n## v2.0.3\r\n* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n## v2.0.2\r\n* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n## v2.0.1\r\n* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。"
+		    "title": "BanG Player v2更新日志（最新：v2.0.5-R1）",
+			"content": "如果您使用的是PWA应用（通过浏览器访问），则您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。\r\n\r\n## v2.0.5-R1\r\n* 修复了一个会导致iOS设备不能正常打开谱面音乐的问题。\r\n## v2.0.5\r\n* 修改了主页的风格以及主要颜色。\r\n* 11月1日似乎会发生一些奇怪的事情……\r\n## v2.0.4-R1\r\n* 修复了由于代码编写错误导致的SIF歌曲信息无法加载的问题。\r\n* 修改了线路名称。\r\n## v2.0.4\r\n* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n## v2.0.3\r\n* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n## v2.0.2\r\n* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n## v2.0.1\r\n* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。"
 		}
 	},
 	{
 		"time": 1603614600000,
 		"key": "issue_20201025_0",
 		"en-us": {
-			"title": "App download",
+			"title": "About the network error problem some time ago",
 			"content": "In order to provide better access services, I previously performed a server migration, but due to operational errors, the new server could not be accessed via https for several days, resulting in inaccessibility issues in the notification and Wiki systems. \r\nThe problem has now been fixed and a higher speed line has been replaced. \r\nI hope you can continue to use and support BanG Player v2."
 		},
 		"zh-cn": {
-			"title": "About the network error problem some time ago",
+			"title": "关于前段时间的网络错误",
 			"content": "为了提供更好的访问服务，我先前进行了一次服务器的迁移，但其中由于操作失误，几天以来都无法通过https方式访问到新的服务器，导致通知和Wiki系统出现了无法访问的问题。\r\n现在问题已经修复，并且换上了更高速的线路。\r\n希望您能继续使用并支持BanG Player v2。"
 		}
 	},
