@@ -35,7 +35,7 @@
 		"key": "changeLog_v2.0.7_0",
 		"en-us": {
 		    "title": "Change Log of BanG Player v2(Latest: v2.0.7)",
-			"content": "If you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it.\r\n\r\n## v2.0.7\r\n* New Skin: \"April Fool\'s 2021(CN)\", \"April Fool\'s 2021(JP)\".\r\n## v2.0.6\r\n* New Skin: \"Magical Doremi\".\r\n* Fix some translate issue.\r\n## v2.0.5-R1\r\n* Fix an issue that iOS devices cannot load chart music.\r\n## v2.0.5\r\n* Update the index page and primary color.\r\n* Something will happen on November 1st...\r\n## v2.0.4-R1\r\n* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name."
+			"content": "If you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it.\r\n\r\n## v2.0.7\r\n* New Skin: \"April Fool's 2021(CN)\", \"April Fool's 2021(JP)\".\r\n## v2.0.6\r\n* New Skin: \"Magical Doremi\".\r\n* Fix some translate issue.\r\n## v2.0.5-R1\r\n* Fix an issue that iOS devices cannot load chart music.\r\n## v2.0.5\r\n* Update the index page and primary color.\r\n* Something will happen on November 1st...\r\n## v2.0.4-R1\r\n* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name."
 		},
 		"zh-cn": {
 		    "title": "BanG Player v2更新日志（最新：v2.0.7）",
