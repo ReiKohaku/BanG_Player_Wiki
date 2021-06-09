@@ -11,27 +11,27 @@
 		}
 	},
         {
-                "time": 1623218400000,
-                "key": "fitting_0",
+                "time": 1623232200000,
+                "key": "fitting_1",
                 "en-us": {
                         "title": "Tip of service down",
-                        "content": "Because Bestdori changed chart format, service has been down a few hours ago. I'm going to fit new format in several hours. Please wait for a while, thanks."
+                        "content": "Service has been restored. Thank you for your support.\rFor users who are using APP, please download the latest version of BanG Player v2.\r\rBecause Bestdori changed chart format, service has been down a few hours ago. I'm going to fit new format in several hours. Please wait for a while, thanks."
                 },
                 "zh-cn": {
                         "title": "关于服务不可用的问题的说明",
-                        "content": "由于Bestdori更换了新的谱面格式，目前应用处于不可用状态。我将在近几个小时内进行适配工作，请稍等一会，谢谢。"
+                        "content": "服务已恢复，感谢您的支持。\r使用APP的用户，请下载最新版本再使用。\r\r由于Bestdori更换了新的谱面格式，目前应用处于不可用状态。我将在近几个小时内进行适配工作，请稍等一会，谢谢。"
                 }
         },
 	{
-		"time": 1617288300000,
-		"key": "app_v2.0.7",
+		"time": 1623232200000,
+		"key": "app_v2.0.8",
 		"en-us": {
 			"title": "App download",
-			"content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.7\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
+			"content": "BanG Player App is built with Capacitor.\r\nLatest Version: v2.0.8\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)\r\n[lanzous](https://reikohaku.lanzoui.com/b00twxfdi)"
 		},
 		"zh-cn": {
 			"title": "App版下载链接",
-			"content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.7\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
+			"content": "App版使用Capacitor构建，可以带来高性能的，如同原生应用般的体验。\r\n\r\n最新版：v2.0.8\r\n\r\n[蓝奏云](https://reikohaku.lanzoui.com/b00twxfdi)\r\n[Google Drive](https://drive.google.com/drive/folders/1FPyzztn5k-ZiXCD7MPDQoCcDk2Wv6IvX?usp=sharing)"
 		}
 	},
 	{
@@ -43,15 +43,15 @@
 		}
 	},
 	{
-	    "time": 1617288300000,
-		"key": "changeLog_v2.0.7_0",
+	    "time": 1623232200000,
+		"key": "changeLog_v2.0.8_0",
 		"en-us": {
-		    "title": "Change Log of BanG Player v2(Latest: v2.0.7)",
-			"content": "If you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it.\r\n\r\n## v2.0.7\r\n* New Skin: \"April Fool's 2021(CN)\", \"April Fool's 2021(JP)\".\r\n## v2.0.6\r\n* New Skin: \"Magical Doremi\".\r\n* Fix some translate issue.\r\n## v2.0.5-R1\r\n* Fix an issue that iOS devices cannot load chart music.\r\n## v2.0.5\r\n* Update the index page and primary color.\r\n* Something will happen on November 1st...\r\n## v2.0.4-R1\r\n* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name."
+		    "title": "Change Log of BanG Player v2(Latest: v2.0.8)",
+			"content": "If you are using PWA Application, there's no need any action when upgrade will start automatically. Just press Ctrl+F5 when there's a notify display in the bottom of the page.\r\nIf it takes a long time, you can try to clear all cache of the browser and restart it.\r\n\r\n## v2.0.8\r\n* Fit new format of Bestdori(No curve slides, use flicks to replace directional notes).\r\n## v2.0.7\r\n* New Skin: \"April Fool's 2021(CN)\", \"April Fool's 2021(JP)\".\r\n## v2.0.6\r\n* New Skin: \"Magical Doremi\".\r\n* Fix some translate issue.\r\n## v2.0.5-R1\r\n* Fix an issue that iOS devices cannot load chart music.\r\n## v2.0.5\r\n* Update the index page and primary color.\r\n* Something will happen on November 1st...\r\n## v2.0.4-R1\r\n* Fix an issue of loading SIF song info failed caused by code writing.\r\n* Update a server name."
 		},
 		"zh-cn": {
-		    "title": "BanG Player v2更新日志（最新：v2.0.7）",
-			"content": "如果您使用的是PWA应用（通过浏览器访问），则您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。\r\n\r\n## v2.0.7\r\n* 新增皮肤：愚人节2021（国服）、愚人节2021（日服）。\r\n## v2.0.6\r\n* 新增皮肤：小魔女doremi。\r\n* 修复了一些翻译错误。\r\n## v2.0.5-R1\r\n* 修复了一个会导致iOS设备不能正常打开谱面音乐的问题。\r\n## v2.0.5\r\n* 修改了主页的风格以及主要颜色。\r\n* 11月1日似乎会发生一些奇怪的事情……\r\n## v2.0.4-R1\r\n* 修复了由于代码编写错误导致的SIF歌曲信息无法加载的问题。\r\n* 修改了线路名称。\r\n## v2.0.4\r\n* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n## v2.0.3\r\n* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n## v2.0.2\r\n* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n## v2.0.1\r\n* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。"
+		    "title": "BanG Player v2更新日志（最新：v2.0.8）",
+			"content": "如果您使用的是PWA应用（通过浏览器访问），则您无需手动操作，应用会自动开始升级。下方弹出提示时使用Ctrl+F5刷新即可。\r\n\r\n如果您发现长时间都没有更新完成，可以尝试手动清空缓存后彻底关闭页面及浏览器，再打开本应用。\r\n\r\n## v2.0.8\r\n* 适配新版Bestdori!谱面格式（暂不支持弯曲滑条，并使用普通的滑键代替定向滑键）。\r\n## v2.0.7\r\n* 新增皮肤：愚人节2021（国服）、愚人节2021（日服）。\r\n## v2.0.6\r\n* 新增皮肤：小魔女doremi。\r\n* 修复了一些翻译错误。\r\n## v2.0.5-R1\r\n* 修复了一个会导致iOS设备不能正常打开谱面音乐的问题。\r\n## v2.0.5\r\n* 修改了主页的风格以及主要颜色。\r\n* 11月1日似乎会发生一些奇怪的事情……\r\n## v2.0.4-R1\r\n* 修复了由于代码编写错误导致的SIF歌曲信息无法加载的问题。\r\n* 修改了线路名称。\r\n## v2.0.4\r\n* 新增bangbangboom editor测试功能，可以在[bangbangboom editor国内版](https://reikohaku.gitee.io/ebbb)使用上传测试功能使用。\r\n* 修改了主页按钮配色。\r\n## v2.0.3\r\n* 修复了combo数无法累积和滑条表现异常的问题。\r\n* 新增了2条加速线路。\r\n* 更新了应用图标。\r\n* 优化Wiki页面使用体验。\r\n* 修改了将音乐设置为主页音乐的按钮图标。\r\n* 通知页面的日期按照本机语言设置的格式显示。\r\n* 修复了准备页面加载好音乐后，进入游戏加载页面后还需要再下载音乐的问题。\r\n* 适配了App侧的全屏。\r\n## v2.0.2\r\n* 修复了将通知标记为已读后，下次打开应用仍会显示未读的问题。\r\n* 新增皮肤：初音未来\r\n* 新增自定义主界面音乐功能。\r\n* 只有一个难度时，隐藏难度选择器。\r\n* 新增已选择mod在准备界面和游戏界面的显示。\r\n* 为不同的语言应用了正确的语言包。\r\n* 适配快应用标准。\r\n## v2.0.1\r\n* 修复了某些情况下滑条会消失的情况。\r\n* 新增了应用缓存成功、发现新版本、升级完成、离线模式等的提示。\r\n* 为Wiki增加了正确的加载提示。"
 		}
 	},
 	{
