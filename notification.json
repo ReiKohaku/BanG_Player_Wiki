@@ -10,6 +10,18 @@
 			"content": "欢迎您使用BanG Player！\n\r感谢各位愿意等待这么久，等待一个脱胎换骨般的BanG Player v2。我希望能带给大家更贴近原生App的体验，也希望您能给我提出意见，指出不足。\n\r您可以在Wiki中学习BanG Player的相关知识，也欢迎各位帮我补充。"
 		}
 	},
+        {
+                "time": 1623218400000,
+                "key": "fitting_0",
+                "en-us": {
+                        "title": "Tip of service down",
+                        "content": "Because Bestdori changed chart format, service has been down a few hours ago. I'm going to fit new format in several hours. Please wait for a while, thanks."
+                },
+                "zh-cn": {
+                        "title": "关于服务不可用的问题的说明",
+                        "content": "由于Bestdori更换了新的谱面格式，目前应用处于不可用状态。我将在近几个小时内进行适配工作，请稍等一会，谢谢。"
+                }
+        },
 	{
 		"time": 1617288300000,
 		"key": "app_v2.0.7",
