@@ -11,15 +11,15 @@
 		}
 	},
         {
-                "time": 1623232200000,
-                "key": "fitting_1",
+                "time": 1626413100000,
+                "key": "fitting_2",
                 "en-us": {
                         "title": "Tip of service down",
-                        "content": "Service has been restored. Thank you for your support.\rFor users who are using APP, please download the latest version of BanG Player v2.\r\rBecause Bestdori changed chart format, service has been down a few hours ago. I'm going to fit new format in several hours. Please wait for a while, thanks."
+                        "content": "Cause Bestdori's change, error will occur when loading bgm. Now service has been restored, please use **direct**, **U.S.** or **Beijing** proxy line.\r\r====\r\r Service has been restored. Thank you for your support.\rFor users who are using APP, please download the latest version of BanG Player v2.\r\r========\r\rBecause Bestdori changed chart format, service has been down a few hours ago. I'm going to fit new format in several hours. Please wait for a while, thanks."
                 },
                 "zh-cn": {
                         "title": "关于服务不可用的问题的说明",
-                        "content": "服务已恢复，感谢您的支持。\r使用APP的用户，请下载最新版本再使用。\r\r由于Bestdori更换了新的谱面格式，目前应用处于不可用状态。我将在近几个小时内进行适配工作，请稍等一会，谢谢。"
+                        "content": "先前由于Bestdori方更改存储池，载入BGM时会出现网络错误。目前该问题已修复，请您使用**直连**、**美国**和**北京**三条线路之一。\r\r====\r\r服务已恢复，感谢您的支持。\r使用APP的用户，请下载最新版本再使用。\r\r========\r\r由于Bestdori更换了新的谱面格式，目前应用处于不可用状态。我将在近几个小时内进行适配工作，请稍等一会，谢谢。"
                 }
         },
 	{
